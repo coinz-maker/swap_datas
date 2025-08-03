@@ -1,1 +1,112 @@
-{"metadata": {"table": "fullday_contest", "columns": ["event_id", "timestamp", "human_date", "user_raw_wallet", "swap_type", "amount_ton", "amount_jetton", "jetton_symbol", "ton_name", "jetton_ca", "ticket_counter"], "timestamp": "2025-08-03T16:04:28.256069"}, "data": [["672c841a8622c33752db6835b7a8a8f24298d281b1a49c21bcd5c1484ece8678", 1754147192, "18:06 02.08.2025", "0:d3964076a486ad361aea609219cc531767f6c5bf26115c6891d148304e598252", "sell", 27385728849, 960299290040402, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", -14], ["cf00a5d6a00dd4182fbdd10840e941105b61bf7da796bb78d7c509635fd0625f", 1754120806, "10:46 02.08.2025", "0:a1d41090334a42ef831dd59d894e25e66dea3ab8bbb520e7def7e1b1bf44ebf3", "sell", 1602979476, 51738647584872, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", -1], ["fb0c5b1a04db6720b6008e4d3bde002bc2eeed11ae883089a5da070374dac6b6", 1754116231, "09:30 02.08.2025", "0:7a3541121a634a600c112b08e32cabd65570c1294ab7a5538c995370564a6ff3", "sell", 2688367733, 86553000000000, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", -2], ["ac7fce8619baa67785f324e3dd464c960c1d1499ba8823838f7ee9cb584847d9", 1754095190, "03:39 02.08.2025", "0:4d75653be8820cf3dd1b32be49fdaf4e28078e4c06d754f7c3bc8f84de299c46", "buy", 600000000, 12602123459597, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", 0], ["3fb8179fba9c07106ac8e28114c7514b244fb81aa6bfd8b4f4a2323100eb41e5", 1754095163, "03:39 02.08.2025", "0:4d75653be8820cf3dd1b32be49fdaf4e28078e4c06d754f7c3bc8f84de299c46", "buy", 2600000000, 63226570957713, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", 1], ["82954685274637b0f2a9d0862b5bc9462e737f9de588d83626822dc1183669be", 1754081221, "23:47 01.08.2025", "0:5b02a0654a3512e69b06291c9067fa3d1d10678cd4ae60e789a7b90c92c11c60", "sell", 5307006519, 175339170776097, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", -3], ["60f4de08fcc7308dbf5bb97a394db43d8f9d1fc976877096b3b6d8832e94ca74", 1754076887, "22:34 01.08.2025", "0:4d75653be8820cf3dd1b32be49fdaf4e28078e4c06d754f7c3bc8f84de299c46", "buy", 8080000000, 200460030771950, "ENC", "TON", "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a", 3]]}
+{
+    "metadata": {
+        "table": "fullday_contest",
+        "columns": [
+            "event_id",
+            "timestamp",
+            "human_date",
+            "user_raw_wallet",
+            "swap_type",
+            "amount_ton",
+            "amount_jetton",
+            "jetton_symbol",
+            "ton_name",
+            "jetton_ca",
+            "ticket_counter"
+        ],
+        "timestamp": "2025-08-03T16:05:21.722410"
+    },
+    "data": [
+        [
+            "672c841a8622c33752db6835b7a8a8f24298d281b1a49c21bcd5c1484ece8678",
+            1754147192,
+            "18:06 02.08.2025",
+            "0:d3964076a486ad361aea609219cc531767f6c5bf26115c6891d148304e598252",
+            "sell",
+            27385728849,
+            960299290040402,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            -14
+        ],
+        [
+            "cf00a5d6a00dd4182fbdd10840e941105b61bf7da796bb78d7c509635fd0625f",
+            1754120806,
+            "10:46 02.08.2025",
+            "0:a1d41090334a42ef831dd59d894e25e66dea3ab8bbb520e7def7e1b1bf44ebf3",
+            "sell",
+            1602979476,
+            51738647584872,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            -1
+        ],
+        [
+            "fb0c5b1a04db6720b6008e4d3bde002bc2eeed11ae883089a5da070374dac6b6",
+            1754116231,
+            "09:30 02.08.2025",
+            "0:7a3541121a634a600c112b08e32cabd65570c1294ab7a5538c995370564a6ff3",
+            "sell",
+            2688367733,
+            86553000000000,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            -2
+        ],
+        [
+            "ac7fce8619baa67785f324e3dd464c960c1d1499ba8823838f7ee9cb584847d9",
+            1754095190,
+            "03:39 02.08.2025",
+            "0:4d75653be8820cf3dd1b32be49fdaf4e28078e4c06d754f7c3bc8f84de299c46",
+            "buy",
+            600000000,
+            12602123459597,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            0
+        ],
+        [
+            "3fb8179fba9c07106ac8e28114c7514b244fb81aa6bfd8b4f4a2323100eb41e5",
+            1754095163,
+            "03:39 02.08.2025",
+            "0:4d75653be8820cf3dd1b32be49fdaf4e28078e4c06d754f7c3bc8f84de299c46",
+            "buy",
+            2600000000,
+            63226570957713,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            1
+        ],
+        [
+            "82954685274637b0f2a9d0862b5bc9462e737f9de588d83626822dc1183669be",
+            1754081221,
+            "23:47 01.08.2025",
+            "0:5b02a0654a3512e69b06291c9067fa3d1d10678cd4ae60e789a7b90c92c11c60",
+            "sell",
+            5307006519,
+            175339170776097,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            -3
+        ],
+        [
+            "60f4de08fcc7308dbf5bb97a394db43d8f9d1fc976877096b3b6d8832e94ca74",
+            1754076887,
+            "22:34 01.08.2025",
+            "0:4d75653be8820cf3dd1b32be49fdaf4e28078e4c06d754f7c3bc8f84de299c46",
+            "buy",
+            8080000000,
+            200460030771950,
+            "ENC",
+            "TON",
+            "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+            3
+        ]
+    ]
+}
