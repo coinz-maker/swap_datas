@@ -1,41 +1,15 @@
 [
     {
-        "event_id": "d2751f2888e4002d0adb45a660a7388ec73b34db2a105b2700655f3d41b5ec00",
-        "timestamp": 1762616073,
-        "human_date": "18:34 08.11.2025",
-        "user_raw_wallet": "0:699f1cf305ae2328de97c5a5665642320af680a1c69f8934c524b9846bc71d9d",
+        "event_id": "e56294b1230ea8918885e55010dd10db0a38fa48f302412ffb4892f33f8612cb",
+        "timestamp": 1762663938,
+        "human_date": "07:52 09.11.2025",
+        "user_raw_wallet": "0:3d9d9bc2d4ce38ed8b8f41ab7c8d8627b9103e79b09cb8736fdf7ef31a501989",
         "swap_type": "buy",
-        "amount_ton": 500000000,
-        "amount_jetton": 6925292459721,
+        "amount_ton": 5000000000,
+        "amount_jetton": 68939305812348,
         "jetton_symbol": "ENC",
         "ton_name": "TON",
         "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": 0
-    },
-    {
-        "event_id": "ff5c3256f8064e335cbf531397d1c41cbe5ac8763631c95d9af8f407ba3d2a26",
-        "timestamp": 1762610993,
-        "human_date": "17:09 08.11.2025",
-        "user_raw_wallet": "0:7a3541121a634a600c112b08e32cabd65570c1294ab7a5538c995370564a6ff3",
-        "swap_type": "sell",
-        "amount_ton": 5482473538,
-        "amount_jetton": 98912848016775,
-        "jetton_symbol": "ENC",
-        "ton_name": "TON",
-        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": -3
-    },
-    {
-        "event_id": "ed50709fbea2e183d266256049879bec9c9c9d636ddd26b5934c45e0a94bd2db",
-        "timestamp": 1762587899,
-        "human_date": "10:44 08.11.2025",
-        "user_raw_wallet": "0:5426ac5d7ff744061e2dae7df614b16b46290dde0a5b5523029235bfa4d6b15b",
-        "swap_type": "buy",
-        "amount_ton": 50000000000,
-        "amount_jetton": 707902628857859,
-        "jetton_symbol": "ENC",
-        "ton_name": "TON",
-        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": 25
+        "ticket_counter": 2
     }
 ]
