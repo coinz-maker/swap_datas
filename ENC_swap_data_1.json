@@ -1,1 +1,28 @@
-null
+[
+    {
+        "event_id": "0766a0d57b53b9eb73aeb5d2008d0059abc24d015f9df07c752730620a37d853",
+        "timestamp": 1766135378,
+        "human_date": "12:09 19.12.2025",
+        "user_raw_wallet": "0:5426ac5d7ff744061e2dae7df614b16b46290dde0a5b5523029235bfa4d6b15b",
+        "swap_type": "buy",
+        "amount_ton": 500000000000,
+        "amount_jetton": 10010354415511752,
+        "jetton_symbol": "ENC",
+        "ton_name": "TON",
+        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+        "ticket_counter": 250
+    },
+    {
+        "event_id": "00dc999dc630c628b89ff4e400265f0411e6cbd83e783d06a415f39ca38e4cd4",
+        "timestamp": 1766135378,
+        "human_date": "12:09 19.12.2025",
+        "user_raw_wallet": "0:94771a419d60d53a820debb8e48c81c200982ac2beca0427ef6d5837897ccb3e",
+        "swap_type": "buy",
+        "amount_ton": 79468585774,
+        "amount_jetton": 146953743423952,
+        "jetton_symbol": "ENC",
+        "ton_name": "TON",
+        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+        "ticket_counter": 39
+    }
+]
