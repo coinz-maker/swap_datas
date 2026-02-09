@@ -1,54 +1,15 @@
 [
     {
-        "event_id": "bc7664cf52ed52aff7b3e4d8ab737203b692dd11e4734bf2ec7793544897979b",
-        "timestamp": 1770497078,
-        "human_date": "23:44 07.02.2026",
-        "user_raw_wallet": "0:ddf690e8ac4c4dc99b94f950101c33dc2478fba4317064c280e08b9c341ca67f",
+        "event_id": "3bd106f3ba4c7bb18591290fb5ae928efca9414584446d50fb58df20a679f238",
+        "timestamp": 1770500931,
+        "human_date": "00:48 08.02.2026",
+        "user_raw_wallet": "0:83424e45cb3c5dd1d489b6ddea078456fc3d856218a378f69c43e799dd3bb9f4",
         "swap_type": "buy",
-        "amount_ton": 20250000000,
-        "amount_jetton": 620999156128110,
+        "amount_ton": 50250000000,
+        "amount_jetton": 1418333543450615,
         "jetton_symbol": "ENC",
         "ton_name": "TON",
         "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": 10
-    },
-    {
-        "event_id": "aa0deeb14afbc2c73294389b7aedb7fc29c16035b0ce2ed59bf132302e58a921",
-        "timestamp": 1770489854,
-        "human_date": "21:44 07.02.2026",
-        "user_raw_wallet": "0:9d39740948e8cb8903e216acddf27b42d0406dd2f8e70fd3e1cdd43822a4fa7f",
-        "swap_type": "sell",
-        "amount_ton": 831010024,
-        "amount_jetton": 30100340636183,
-        "jetton_symbol": "ENC",
-        "ton_name": "TON",
-        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": -1
-    },
-    {
-        "event_id": "35fd09fedcd63d65715a2aa42f98e579809866071021f4e88d72fbff99803f1b",
-        "timestamp": 1770489726,
-        "human_date": "21:42 07.02.2026",
-        "user_raw_wallet": "0:9d39740948e8cb8903e216acddf27b42d0406dd2f8e70fd3e1cdd43822a4fa7f",
-        "swap_type": "buy",
-        "amount_ton": 1250000000,
-        "amount_jetton": 31878398322288,
-        "jetton_symbol": "ENC",
-        "ton_name": "TON",
-        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": 0
-    },
-    {
-        "event_id": "e99cf81dc0048f404e4e396905e9d81f4efb4d40351226731820eaa0a5fa4fb4",
-        "timestamp": 1770489638,
-        "human_date": "21:40 07.02.2026",
-        "user_raw_wallet": "0:9d39740948e8cb8903e216acddf27b42d0406dd2f8e70fd3e1cdd43822a4fa7f",
-        "swap_type": "buy",
-        "amount_ton": 4250000000,
-        "amount_jetton": 127931536928851,
-        "jetton_symbol": "ENC",
-        "ton_name": "TON",
-        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": 2
+        "ticket_counter": 25
     }
 ]
