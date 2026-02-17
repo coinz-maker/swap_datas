@@ -1,1 +1,54 @@
-null
+[
+    {
+        "event_id": "b6103956b024830e1faee6d28c1e0004316a25dc5f9ae8777ad464f87ba58d08",
+        "timestamp": 1771247292,
+        "human_date": "16:08 16.02.2026",
+        "user_raw_wallet": "0:b44efdef70c0e16d16ceeef1be9221395d2cb5bdeda76172d60c2ac4437809af",
+        "swap_type": "buy",
+        "amount_ton": 1250000000,
+        "amount_jetton": 25481803664416,
+        "jetton_symbol": "ENC",
+        "ton_name": "TON",
+        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+        "ticket_counter": 0
+    },
+    {
+        "event_id": "0f9caa0f721569256cf6025667a113886264303baaa6af4592b97c4e37c62430",
+        "timestamp": 1771245833,
+        "human_date": "15:43 16.02.2026",
+        "user_raw_wallet": "0:b44efdef70c0e16d16ceeef1be9221395d2cb5bdeda76172d60c2ac4437809af",
+        "swap_type": "buy",
+        "amount_ton": 1250000000,
+        "amount_jetton": 25543362564386,
+        "jetton_symbol": "ENC",
+        "ton_name": "TON",
+        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+        "ticket_counter": 0
+    },
+    {
+        "event_id": "5a92ec5ec3e1feac1456b60ed3a90e8dca6150e5e057438f013d548e5e77a67c",
+        "timestamp": 1771191861,
+        "human_date": "00:44 16.02.2026",
+        "user_raw_wallet": "0:f0f058d01b183c9e7050e6ae2d01cbf086262cf84f1aa3c121bd6a19387561a5",
+        "swap_type": "buy",
+        "amount_ton": 20150000000,
+        "amount_jetton": 520650586304157,
+        "jetton_symbol": "ENC",
+        "ton_name": "TON",
+        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+        "ticket_counter": 10
+    },
+    {
+        "event_id": "6ebea6ad7ecc715486cfca5942e22a4801b873239aeaaa26938e434e215f4d39",
+        "timestamp": 1771191683,
+        "human_date": "00:41 16.02.2026",
+        "user_raw_wallet": "0:08326be0e63940e860c2346e418b26f06a2d7c9e7d137c374979ff3a858915f6",
+        "swap_type": "buy",
+        "amount_ton": 8200000000,
+        "amount_jetton": 214722599790556,
+        "jetton_symbol": "ENC",
+        "ton_name": "TON",
+        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
+        "ticket_counter": 4
+    }
+]
