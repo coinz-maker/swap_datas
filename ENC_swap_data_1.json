@@ -1,15 +1,1 @@
-[
-    {
-        "event_id": "9a238d819986778e4c7049e7ceae15672a9de45adb689938f7fbfb452a1a5258",
-        "timestamp": 1776944540,
-        "human_date": "14:42 23.04.2026",
-        "user_raw_wallet": "0:07669e991ec16cf79d78ea2dec4a6bebfa5a431ae402401c5afe2c6c5603648f",
-        "swap_type": "sell",
-        "amount_ton": 1366039910,
-        "amount_jetton": 100000000000000,
-        "jetton_symbol": "ENC",
-        "ton_name": "TON",
-        "jetton_ca": "0:6b0c169ce89aadd2ff11c70441ac98f51b6cb33449b2fd1df4f97275028f695a",
-        "ticket_counter": -1
-    }
-]
+null
